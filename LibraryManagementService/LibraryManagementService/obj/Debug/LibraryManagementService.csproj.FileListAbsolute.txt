@@ -1,0 +1,14 @@
+C:\Users\theno\source\repos\LibraryManagementService\LibraryManagementService\bin\LibraryManagementService.dll.config
+C:\Users\theno\source\repos\LibraryManagementService\LibraryManagementService\bin\LibraryManagementService.dll
+C:\Users\theno\source\repos\LibraryManagementService\LibraryManagementService\bin\LibraryManagementService.pdb
+C:\Users\theno\source\repos\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.csproj.AssemblyReference.cache
+C:\Users\theno\source\repos\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.csproj.CoreCompileInputs.cache
+C:\Users\theno\source\repos\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.dll
+C:\Users\theno\source\repos\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.pdb
+C:\Users\theno\source\repos\LibraryManagement\LibraryManagementService\LibraryManagementService\bin\LibraryManagementService.dll.config
+C:\Users\theno\source\repos\LibraryManagement\LibraryManagementService\LibraryManagementService\bin\LibraryManagementService.dll
+C:\Users\theno\source\repos\LibraryManagement\LibraryManagementService\LibraryManagementService\bin\LibraryManagementService.pdb
+C:\Users\theno\source\repos\LibraryManagement\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.csproj.AssemblyReference.cache
+C:\Users\theno\source\repos\LibraryManagement\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.csproj.CoreCompileInputs.cache
+C:\Users\theno\source\repos\LibraryManagement\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.dll
+C:\Users\theno\source\repos\LibraryManagement\LibraryManagementService\LibraryManagementService\obj\Debug\LibraryManagementService.pdb

@@ -1,0 +1,7 @@
+C:\Users\theno\source\repos\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.exe.config
+C:\Users\theno\source\repos\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.exe
+C:\Users\theno\source\repos\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.pdb
+C:\Users\theno\source\repos\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.csproj.AssemblyReference.cache
+C:\Users\theno\source\repos\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.csproj.CoreCompileInputs.cache
+C:\Users\theno\source\repos\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.exe
+C:\Users\theno\source\repos\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.pdb
